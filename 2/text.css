@@ -1,0 +1,73 @@
+/* CSS Document */
+@charset "utf-8";
+/* CSS Document */
+body {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	color:#000000;
+	line-height: 20px;
+	text-align:justify;
+	background-color: #dce2ed;
+	margin-top: 3em;
+	}
+	
+	.blue_border {
+	border: 3px solid #7798bf;
+	}
+	
+p {
+	margin-right: 1em;
+	margin-left: 1em;
+}
+
+h3 {
+	font-family: Arial, sans-serif;
+	text-align: center;
+	padding-bottom: 10px
+}
+
+body {
+	background:#eee;
+	}
+	
+	
+#content h3 {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:24px;
+	text-align:right;
+	background:#E1E1E1;
+	border:solid 1px #aaa;
+	padding: 5px;
+	color:#666;
+	margin-right:0;
+}
+
+#content h4{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#555;
+	margin-left: 1em;
+	
+}
+	
+#content {
+	background-color: #fff;
+	width: 760px;
+	margin-left:auto;
+	margin-right:auto;
+	padding: 10px;
+}	
+
+.picture-right {
+	float:right;
+	margin-right: -40px;
+	padding-left: 10px;
+	text-align:left;
+}
+
+.picture-left {
+	float:left;
+	margin-left: 5px;
+	padding-right: 20px;
+	text-align:right;
+}
